@@ -1,0 +1,27 @@
+# 📌 ¿Qué es Markdown?
+
+**Markdown** es un lenguaje de marcado ligero que permite dar formato a texto de manera sencilla y rápida. Se utiliza principalmente para documentación, blogs, README en GitHub y notas.
+
+## ✨ Características principales
+
+- Fácil de escribir y leer.
+- Compatible con múltiples plataformas como GitHub, GitLab y Notion.
+- Convierte texto plano en HTML sin necesidad de usar etiquetas complicadas.
+
+## 🔤 Sintaxis básica
+
+### **Negrita y cursiva**
+- **Texto en negrita** → `**Texto en negrita**`
+- *Texto en cursiva* → `*Texto en cursiva*`
+- ~~Texto tachado~~ → `~~Texto tachado~~`
+
+### **Listas**
+- Lista con viñetas:
+  - Elemento 1
+  - Elemento 2  
+  - Elemento 3  
+
+```markdown
+- Elemento 1
+- Elemento 2
+- Elemento 3
